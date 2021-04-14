@@ -9,7 +9,7 @@
  O Trace Finder tem como objetivo ser uma aplicação que permite manter, customizar e versionar partes de documentos que são armazenados em arquivos PDF, a partir disso, utilizando regras específicas, é possível gerar documentos finais que integrem as partes selecionadas.
 
 
-	- [👨‍💻 Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
+	- [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
 	- [📏 Wireframes](https://github.com/MaXximiles/API-3SEM/tree/main/Wireframes)
 	- [📃 Documentação](https://github.com/MaXximiles/API-3SEM/tree/main/Documenta%C3%A7%C3%A3o)
 <h1> </h1>
