@@ -12,10 +12,8 @@
 
 <h1></h1> 
 
-### Proposta
- - Após uma entrevista cedida pela indústria Embraer, identificou-se quatro limitações no método vigente. Essas quatro limitações são: o codelist está armazenado e é operado manualmente em planilhas com extensão do tipo .xlsx.
-
-- Sabendo disso, a fim de otimizar essas limitações de forma simplificada, o Trace Finder poder-se-á ser utilizado para construção de uma interface limpa e automatizada. O **Trace Finder** busca otimizar os processos, como a geração automática de LEP, contêm um sistema de autenticação ordinário e possibilita o uso de tags utilizadas para agrupamento e identificação.
+### Objetivo:
+O Trace Finder tem como objetivo ser uma aplicação que permite manter, customizar e versionar partes de documentos que são armazenados em arquivos PDF, a partir disso, utilizando regras específicas, é possível gerar documentos finais que integrem as partes selecionadas.
 
 
 	- [👨‍💻 User Story Cards](https://github.com/MaXximiles/API-3SEM/tree/main/User%20Story%20Cards)
@@ -29,7 +27,7 @@
  - [x] Criação da tela de login.
  - [x] Apresentação de wireframes e story cards.
 
-- Para a proxima sprint serão arrumadas as falhas apontadas para o cliente e será feita a resolução dos Story Cards de....
+- As falhas apontadas pelo cliente serão arrumadas na proxima Sprint junto com a resolução dos Story Cards.
 
 
 <h1> </h1>
